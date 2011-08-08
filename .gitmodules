@@ -1,3 +1,0 @@
-[submodule "node_modules/buster"]
-	path = node_modules/buster
-	url = git@git.cjohansen.no:buster-js/buster.git
