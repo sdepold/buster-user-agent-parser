@@ -16,5 +16,8 @@
     "repository": {
         "type": "git",
         "url": "http://git.gitorious.org/buster-js/buster-user-agent-parser.git"
+    },
+    "devDependencies": {
+        "buster": "*"
     }
 }
