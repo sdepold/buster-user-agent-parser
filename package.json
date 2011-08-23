@@ -1,6 +1,6 @@
 {
     "name": "buster-user-agent-parser",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Simple user agent parser that gets browser, platform and version",
     "homepage": "http://busterjs.org/docs/buster-user-agent-parser",
     "author": { "name": "August Lilleaas and Christian Johansen" },
