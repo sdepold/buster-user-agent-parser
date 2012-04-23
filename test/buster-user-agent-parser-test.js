@@ -2950,7 +2950,7 @@ if (typeof require != "undefined") {
 
             assert.equals(parser.parse("Mozilla/5.0 (Linux; U; Android 2.1; en-us; Nexus One Build/ERD62) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17"), {
                 platform: "Android",
-                os: "Android 2.1 (Eclair)",
+                os: "Android 2.x (Eclair)",
                 browser: "Mobile Safari",
                 version: "4.0"
             });
